@@ -1,1 +1,1 @@
-Please check the README.docx for instructions on how to install and use cadwire.
+Cadwire is an Autodesk-Maya python script for the automated design of wireframe DNA nanostructures from short synthetic strands. It uses the vhelix Maya plugin api to create and manipulate the DNA double helices. Cadwire has only been tested on windows. Please check the README.docx for instructions on how to run the script on Maya. The README.docx file also has a demo showing how to use cadwire to design a DNA wireframe cube. 
